@@ -1,3 +1,24 @@
+# GoFundYourself
+
+Getting funding for your passion project, needs or dream doesn't have to be a nightmare!
+
+### Let's Funding Thoughtfully Go! LFTG!
+
+## Installing
+
+1. git clone this repo
+1. npm install
+1. set up .env
+1. npm run dev
+
+### .env settings:
+> you should create an empty .env file in the root directory, and fill it with these values (ask a dev for help, or get yer own variables!)
+
+NEXT_PUBLIC_MORALIS_APP_ID=Ryl3...
+NEXT_PUBLIC_MORALIS_SERVER_URL=https:...
+NEXT_PUBLIC_COVALENT_API_KEY=ckey_f...
+
+## NextJS Boilerplate
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
